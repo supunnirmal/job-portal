@@ -1,0 +1,141 @@
+_id,company,job,location,gender,age,salary,days,hours,role,qualification,experence,technologies
+ObjectId("5e2958a56998d3da66df2843"),Pearson,Software Engineer,LK-Colombo-Orion City Sascon Bldg Orion City Sascon Building No. 752/5 Dr Danister De Silver Mawatha Colombo,any,,,Week days,40 hours plus per week,At Pearson, we’re committed to a world that’s always learning and to our talented team who makes it all possible.
+From bringing lectures vividly to life to turning textbooks into laptop lessons, we are always re-examining the way people learn best,
+whether it’s one child in our own backyard or an education community across the globe.
+We are bold thinkers and standout innovators who motivate each other to explore new frontiers in an environment that supports and
+ inspires us to always be better.
+By pushing the boundaries of technology
+— and each other to surpass these boundaries —
+we create seeds of learning that become the catalyst for the world’s innovations, personal and global, large and small.
+The Software Engineer will play a key role in the development and maintenance of complex, multi-tiered,
+ and distributed Web based software applications.
+Software Engineer will work under the leadership and guidance of Technical Specialist / Lead on aspects of development & 
+maintenance on software development efforts.
+Individual has to be a representative for the proper adoption of software development methods and technologies.
+Individual will be required to work with dynamic teams that are driven by project delivery goals.
+Should possess the drive to learn and continuously improve on work performance whilst helping and guiding software engineers
+in making the right decisions and be accountable for them.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+• Ensures that code artifacts produced are of the highest quality, conforming to set or agreed upon standard.
+• Makes optimum utilization of engineering tools and technologies to maintain a high productivity level in the team.
+• Adhere to Pearson processes, agile practices and teamwork.
+• Builds competencies in product and technology domain to set expectations.,degree,Minimum two (2) years of experience in software engineering,KNOWLEDGE, SKILLS AND ABILITIES
+• Good and effective interpersonal and communication skills and the ability to interact with prompt and professionalism
+to the teams across different time zones.
+• Ability to work with new development and maintenance teams and contribute gathered knowledge.
+Desirable Experience or Knowledge on the following areas:
+• Object Oriented Concepts, System Analysis and Design,Architectural and Design Patterns, Unit Testing.
+• UML, Web Application Development.
+• SOA , Middleware technologies.
+• Cloud computing.
+Basic Experience or Knowledge on the following areas:
+• Building, Packaging and Deployment Tools, Web and Application Servers, Database Technologies.
+• Java Specialization.
+• Hands on experience either in, J2EE/JEE Platform ,Spring Framework, HTTP Web Services (eg:- SOAP / REST) or .NET Technologies.
+• Knowledge on Oracle, MSSQL, NoSQL & other Database Technologies, Unit testing & Engineering Best Practices, Build, Package & Deployment tools.
+(eg:- Ant / Mavan)
+• Knowledge on experience in one or more web/application servers.
+e.g.: WebSphere, WebLogic, GlassFish, JBoss etc. Knowledge on other Open Source Technologies is an added advantage.
+• Previous experience in Microsoft related technologies would be an added advantage.
+• Previous experience in Cloud technologies would be an added advantage.
+ObjectId("5e295a1f6998d3da66df2844"),Atera,Senior Software Engineer,Colombo, Sri lanka,any,,,Week days,40 hours plus per week,As a Senior Software Engineer you will spearhead a team of talented developers to design, develop, 
+ test and deploy software solutions including business applications, web services, enterprise portals etc. .
+
+Some of your key responsibilities include: 
+• Build robust and functional multi-platform applications
+• Develop and deliver high-quality, low-defect features on schedule
+• Work with your team to create accurate project and task estimates and keep track of progress
+• Collaborate with technical leadership and assist with technical design 
+• Provide recommendations for continuous improvement 
+• Ensure quality by applying best practices and regular code reviews 
+• Be a source of guidance to junior developers through mentorship, feedback and paired programming 
+• Deliver exceptional client results and project success	
+,degree,Minimum four (4) years of professional work experience,• Strong Computer science and development fundamentals including Object Oriented Programming and SOLID principles.
+• Strong Experience in .Net Core, Web API, EF and other Microsoft Technologies. 
+• Experience in relational and NoSQL databases.
+• Experience in frontend framework such as Angular7, React.
+• Experience in Design Patterns, LINQ and Authentication.
+• Good understanding of how scalable, enterprise-level software is designed (both on code and infrastructure levels).
+• Experience working with software release processes. (environments, binary repositories, CI/CD) 
+• Experience with modern source control systems. (TFS, Git etc)
+• Experience working with multiple development methodologies. (Waterfall, Agile, Scrum, Kanban) 
+• Experience in cloud platforms Azure or AWS will be a plus.
+• Familiarity with Microservices architecture is a definite plu.s
+• Previous consulting experience is a plus.
+• Excellent communication and leadership skills.
+• Demonstrate analytical/problem-solving skills.
+• A positive and result-oriented 'can-do' attitude.
+
+ObjectId("5e295aec6998d3da66df2845"),Wiley Global Techmology(Pvt) Limited,Senior Quality Software Engineer,Sri Jayawardenepura Kotte,any,,,Week days,40 hours plus per week,As a senior quality engineer in performance for Wiley, you will help define and follow performance engineering processes,
+ create test plans,
+ execute performance tests,
+ and work closely with Wiley’s product development teams to troubleshoot and remediate performance issues.
+Strong analytical skills and hands-on experience in using load testing and APM tools is a must. 
+
+Responsibilities
+• Collaborate with product management to define performance requirements. 
+• Participate in storyboarding and solution design sessions. Analyze and provide feedback on artifacts delivered throughout the development process. 
+• Provide estimates for performance test planning and execution.
+• Create and maintain library of test plans, test suites and test scripts for performance testing.
+• Maintain performance testing environment, create test bed of data used to support test execution.
+• Track and record results of test execution. Interpret results and identify trends. Publish results and communicate test execution status.
+• Use application performance monitoring tools to identify performance bottlenecks and analyse trends in production environments and
+ re-use that knowledge to improve product performance testing activities.
+• Work closely with development team to research and mitigate issues found in testing.			
+,degree,4 years’ experience in a quality engineering role,• 2 years’ hands-on experience in using load testing tools and application performance monitoring tools. 
+• Experience in Micro Focus LoadRunner, Performance Center, Dynatrace preferred. 
+• Experience in designing performance tests for applications with complex integrations.
+• Experience in front-end performance testing and performance tuning.
+• Ability guide the teams in building high performing applications from requirement analysis through to production deployments.
+• Strong critical-thinking skills and the ability to give attention to details as well as big picture.
+• Excellent verbal and written communication skills and the ability to communicate information to technical and non-technical audiences. 
+• Team player who can easily adapt in a rapidly changing environment.
+• ISTQB foundation level qualification will be an added advantage.
+
+ObjectId("5e295c286998d3da66df2846"),IFS,Software Database Administrator,LK-Colombo-Orion City Sascon Bldg Orion City Sascon Building No. 752/5 Dr Danister De Silver Mawatha Colombo,any,,,Week days,40 hours plus per week,Roles and responsibilities
+
+• Install and configure SQL Server 
+• Setup and maintain SQL Server account security.
+• Performs SQL backups and restores.
+• Setup, schedule, and troubleshoot SQL Server jobs.
+• Applies updates and upgrades to production database environments. 
+• Monitoring existing installations and fine tuning for better performance 
+• Closely work with the Development teams to play the role of trusted advisor on all Database related work.
+• Read requirement documents and Design Databases based on them and preparing ER diagrams 
+• Writing Database code including stored procedures and triggers 
+• Setup and run SQL Server Profiler traces.
+• Optimize SQL queries and suggest alternative methods to enhance the efficiency. 
+• Identify potential performance / security vulnerabilities and bad coding patterns and propose / implement solution to overcome those.	
+,degree,Minimum three(3) or five(5) years of experience in Development/Database administration,KNOWLEDGE, SKILLS AND ABILITIES
+
+ Key Technical Competencies.
+• Depth knowledge in Oracle / MySQL DBA administration activities.
+• Proficient in SQL.
+• Good Knowledge in writing Stored Procedures. 
+• Good Knowledge in relational database design.
+• Proficient in Linux and shell scripting’s.
+
+ObjectId("5e295ed6697e9227d1a7582e"),Envoy Ortus Pvt Ltd,Web Developer,Colombo,any,,,Week days,40 hours plus per week,Web Developer who will be responsible for developing, maintaining and updating the websites of the organization.
+
+ Roles and Responsibilities 
+• Write well designed, testable, efficient code by using best software development practices
+• Create website layout/user interface by using standard HTML/CSS practices 
+• Integrate data from various back-end services and databases
+• Gather and refine specifications and requirements based on technical needs
+• Create and maintain software documentation 
+• Be responsible for maintaining, expanding, and scaling the company websites
+• Stay plugged into emerging technologies/industry trends and apply them into operations and activities
+• Cooperate with web designers to match visual design intent.	
+,degree,,• Proven knowledge of the most current security and web development programming languages.
+• Top-notch programming skills and in-depth knowledge of modern HTML/CSS.
+• Proficiency in the following programming languages: Java and/or Javascript.
+• A solid understanding of how web applications work including security, session management, and best development practices.
+• Adequate knowledge of relational database systems, Object Oriented Programming and web application development.
+• Hands-on experience with network diagnostics, network analytics tools. 
+• Adequate knowledge of Search Engine Optimization process.
+• Aggressive problem diagnosis and creative problem solving skills.
+• Strong organizational skills to juggle multiple tasks within the constraints of timelines and budgets with business acumen.
+• Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques field. 
+• Experience in Magnolia CMS or similar CMS preferred.
+

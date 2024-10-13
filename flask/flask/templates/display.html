@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+<!--===============================================================================================-->	
+<!--===============================================================================================-->
+	<link href="{{ url_for('static', filename='table/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet"/>
+<!--===============================================================================================-->
+	<link href="{{ url_for('static', filename='table/fonts/font-awesome-4.7.0/css/font-awesome.min.css') }}" rel="stylesheet"/>
+<!--===============================================================================================-->
+	<link href="{{ url_for('static', filename='table/vendor/animate/animate.css') }}" rel="stylesheet"/>
+<!--===============================================================================================-->
+<!--===============================================================================================-->
+	<link href="{{ url_for('static', filename='table/vendor/perfect-scrollbar/perfect-scrollbar.css') }}" rel="stylesheet"/>
+<!--===============================================================================================-->
+	<link href="{{ url_for('static', filename='table/css/util.css') }}" rel="stylesheet"/>
+	<link href="{{ url_for('static', filename='table/css/main.css') }}" rel="stylesheet"/>
+</head>
+<body>
+	
+	<div class="limiter">
+		<div class="container-table100">
+			<div class="wrap-table100">
+				<div class="table100">
+					<table id="tb">
+						
+						<tbody>
+						{% for result in results %}
+								<tr>
+									<th class="column1">Company</th>
+									<td class="column1"><pre>{{result['company']}}</pre></td>
+								</tr>
+								<tr>								
+									<th class="column1">Job Title</th>
+									<td class="column1" ><pre>{{result['job']}}</pre></td>
+								</tr>	
+								<tr>
+									<th class="column1">Company Location</th>
+									<td class="column1"><pre>{{result['location']}}</pre></td>
+								</tr>
+								<tr>	
+									<th class="column1">Gender</th>
+									<td class="column1"><pre>{{result['gender']}}</pre></td>
+								</tr>
+								<tr>
+									<th class="column1">Age Range</th>
+									<td class="column1" ><pre>{{result['age']}}</pre></td>
+								</tr>
+								<tr>								
+									<th class="column1">Salary</th>
+									<td class="column1" ><pre>{{result['salary']}}</pre></td>
+								</tr>	
+								<tr>
+									<th class="column1">Working Days</th>
+									<td class="column1"><pre>{{result['days']}}</pre></td>
+								</tr>
+								<tr>	
+									<th class="column1">Working Hours</th>
+									<td class="column1"><pre>{{result['hours']}}</pre></td>
+								</tr>
+								<tr>
+									<th class="column1">Role of the Position</th>
+									<td class="column1" ><pre>{{result['role']}}</pre></td>
+								</tr>
+								<tr>								
+									<th class="column1">Minimum Qualification</th>
+									<td class="column1" ><pre>{{result['qualification']}}</pre></td>
+								</tr>	
+								<tr>
+									<th class="column1">Minimum Years of Experience</th>
+									<td class="column1"><pre>{{result['experence']}}</pre></td>
+								</tr>
+								<tr>	
+									<th class="column1">Required Technologies</th>
+									<td class="column1" id="tec" ><pre width="100%">{{result['technologies']}}</pre></td>
+								</tr>
+						{% endfor %}
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
